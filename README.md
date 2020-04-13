@@ -10,6 +10,12 @@ Notes this is interrupt driven, it requires a pin that can be triggered on a sta
 
 ``` git clone https://github.com/rcorbish/DHT11.git ```
 
+# Instructable
+
+DHT11 has 3 pins (4 sometimes but one is not connected). 2 power & 1 data.
+Connect the power to 3.3v - 5.0v and GND.
+Connect the data to one of the digital signals (in below example Digital 2)
+
 # Try a sample sketch
 
 ```
