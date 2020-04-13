@@ -7,6 +7,7 @@ Notes this is interrupt driven, it requires a pin that can be triggered on a sta
 # Copy this git to your libraries directory 
 
 ``` cd ~/Arduino/libraries```
+
 ``` git clone https://github.com/rcorbish/DHT11.git ```
 
 # Try a sample sketch
